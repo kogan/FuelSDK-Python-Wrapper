@@ -18,7 +18,7 @@ setup(
     install_requires=[
         'PyJWT>=0.1.9',
         'requests>=2.18.4',
-        'suds-py3==1.4'
+        'suds==1.1.2'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
